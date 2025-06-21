@@ -1,0 +1,19 @@
+# Terraform state
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Local logs
+*.log
+
+# SSH keys and sensitive files
+*.pem
+*.key
+*.pub
+
+# Crash logs
+crash.log
+
+# System files
+.DS_Store
+Thumbs.db
