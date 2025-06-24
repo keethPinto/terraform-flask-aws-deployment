@@ -69,12 +69,6 @@ Through this project I learned how to:
 
 ---
 
-## 🙏 Acknowledgements
-
-Special thanks to **Abhishek Veeramalla** for the helpful tutorials that inspired and guided this project.
-
----
-
 ## 📌 License
 
 This project is for educational purposes and open to all learners.
